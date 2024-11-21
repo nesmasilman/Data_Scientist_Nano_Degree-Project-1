@@ -22,7 +22,7 @@ By exploring this dataset, we will be looking for answers for the below 3 questi
 3- How the price correlates to the property_type? What types are the most expensive?
 
 ### Datasets
-The Zipfile contains 3 csv files
+The Zipfile (archive (3).zip) contains 3 csv files
 
 * Listings: including full descriptions and average review score
 * Reviews: including unique id for each reviewer and detailed comments
