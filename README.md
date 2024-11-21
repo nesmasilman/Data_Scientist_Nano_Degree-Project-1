@@ -4,6 +4,7 @@ Boston Airbnb Open Data Project
 ## Table of contents
 * Introduction
 * Scope
+* Datasets
 * Technologies
 * Resources
   
@@ -19,6 +20,13 @@ By exploring this dataset, we will be looking for answers for the below 3 questi
 
 3- How the price correlates to the property_type? What types are the most expensive?
 
+### Datasets
+The Zipfile contains 3 csv files
+
+* Listings: including full descriptions and average review score
+* Reviews: including unique id for each reviewer and detailed comments
+* Calendar: including listing id and the price and availability for that day
+  
 ### Technologies
 This project uses Python 3.10.9 version
 
